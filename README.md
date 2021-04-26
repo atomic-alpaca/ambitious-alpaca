@@ -1,0 +1,3 @@
+# README
+
+Alpaca Staking Pool!
